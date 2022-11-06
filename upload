@@ -1,0 +1,17 @@
+cd <path>//change directery
+pwd//check
+echo "# fichier readme" >> README.md
+git init //change the file to doker
+git add .//get all file
+git status//show the file in the cmd
+git commit -m "first commit"//the name of the folder in github
+git branch -M main//change master to main
+git remote add origin https://github.com/sharanass/readme_upload.git//rename the link to origin
+git remote -v//show the variables ,fetsh and push
+git push -u origin main//upload
+  -username 
+  -token
+--------ACCeSS
+git add .//get all file
+git commit -m "second commit"
+git push
